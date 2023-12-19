@@ -14,6 +14,7 @@ You can just type the following command with the command line flags that are dec
 
 `go run main.go`
 
+
 ##### Second Way (This way is recommended)
 
 Compile and then run the binary directly with the command below and command line flags that is declared for this project:
