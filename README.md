@@ -4,7 +4,7 @@
 
 First of all, clone the repository with the following command into your directory:
 
-`https://github.com/Afthonia/checksum-check-go.git`
+`git clone https://github.com/Afthonia/checksum-check-go.git`
 
 After cloning, in the directory of the project, there are two ways to run the program:
 
