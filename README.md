@@ -31,7 +31,7 @@ The command line flags and the information about them such as their usages or ty
 
 ```go
   -check
-        states if the checkChecksum functions will be run
+        states if the checkChecksum function will be run or not
   -checksum string
         given checksum file path
   -file string
